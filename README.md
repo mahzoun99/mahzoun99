@@ -4,11 +4,6 @@
   <img src="https://img.shields.io/badge/Personal-Website-blueviolet?style=plastic">
 </a>
 
-<!-- <details><summary>Most Used Languages</summary>
-  <p>  -->
-<!--   </p>
-</details> -->
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahzoun99&layout=compact&&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
