@@ -2,7 +2,7 @@
 
 <a href="https://mahzoun99.github.io">
   <img src="https://img.shields.io/badge/Personal-Website-blueviolet?style=plastic">
-</a>
+</a> :honey_pot:
 
 <details><summary>Most Used Languages</summary>
 <p>
