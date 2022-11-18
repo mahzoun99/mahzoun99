@@ -1,9 +1,12 @@
 <!-- ### Hi there 👋 -->
+
+<a href="https://mahzoun99.github.io">
+  <img src="https://img.shields.io/badge/Personal-Website-blueviolet?style=plastic">
+</a>
+
 <details><summary>Most Used Languages</summary>
 <p>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahzoun99&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
 </p>
 </details>
 
