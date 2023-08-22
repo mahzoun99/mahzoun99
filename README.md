@@ -4,9 +4,11 @@
   <img src="https://img.shields.io/badge/Personal-Website-blueviolet?style=plastic">
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahzoun99&langs_count=6&hide=html,scss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahzoun99&langs_count=6&hide=html,scss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 **mahzoun99/mahzoun99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
